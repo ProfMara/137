@@ -1,18 +1,4 @@
 import React, { Component } from "react";
-import {
-  View,
-  Text,
-  FlatList,
-  StyleSheet,
-  Alert,
-  SafeAreaView,
-  StatusBar,
-  Platform,
-  TouchableOpacity,
-  ImageBackground,
-  Image,
-} from "react-native";
-
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
